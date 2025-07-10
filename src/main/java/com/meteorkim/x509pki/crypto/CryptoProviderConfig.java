@@ -1,4 +1,4 @@
-package com.meteorkim.x509pki;
+package com.meteorkim.x509pki.crypto;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

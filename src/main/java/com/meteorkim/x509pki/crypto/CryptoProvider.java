@@ -1,4 +1,4 @@
-package com.meteorkim.x509pki;
+package com.meteorkim.x509pki.crypto;
 
 import java.security.PublicKey;
 import java.security.cert.X509Certificate;

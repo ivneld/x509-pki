@@ -1,4 +1,4 @@
-package com.meteorkim.x509pki;
+package com.meteorkim.x509pki.crypto;
 
 import java.io.File;
 import java.io.FileInputStream;
